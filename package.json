@@ -1,6 +1,6 @@
 {
   "name": "nei-storybook",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "author": "Márcio Brandão",
   "main": "dist/index.js",
   "license": "MIT",
